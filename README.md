@@ -17,7 +17,7 @@ Visual components and Python
 
 
 ## Experiment:
-![exp](https://github.com/LokeshRajamani/Open-Jacson-Networks/assets/120544804/6b560a09-df33-44c2-b9b2-fdd370d526f7
+![exp](https://github.com/LokeshRajamani/Open-Jacson-Networks/assets/120544804/6b560a09-df33-44c2-b9b2-fdd370d526f7)
 
 ## Program:
 ```
